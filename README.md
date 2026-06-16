@@ -15,5 +15,24 @@ Commit squash 1
 Commit squash 2
 Commit squash 3
 
-1er commit dans la branche pycharmj'ajoute une ligne grace a echo >> 
- deuxieme ligne grace a echo >>
+1er commit dans la branche pycharm
+
+j'ajoute une ligne grace a echo >> 
+deuxieme ligne grace a echo >>
+
+# Cours GitHub
+
+Projet réalisé dans le cadre du cours GitHub.
+
+## Fonctionnalités
+
+- Gestion des branches Git
+- Utilisation des stash
+- Squash des commits
+- Pull Requests
+- Scripts Python simples
+
+## Exécution
+
+
+python main.py
